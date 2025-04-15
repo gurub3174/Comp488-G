@@ -7,3 +7,6 @@ Zillow Project for Comp 488
 * Feel free to check out the visualizations I have in the notebook, most were just made for me to guage how the data feels, and compare them to some macro trends, or see if there are any correlated numerical columns (ex. Price and Zestimate).
 * The rest of the Notebook is a work in a progress (I havent had the opportuntiy to look through the categorical variables of the combined zillow df), If someone could look into these and identify (and potentially imputate/encode) any relevant columns after we decide a business topic that would be amazing. 
 *  Feature selection and target variable creation can only be done once we figure out a business topic. 
+
+LINK TO Aggregated ZILLOW FILE: 
+https://drive.google.com/file/d/1LGHQp72AtQ0-3Q-I4UQWpvOQ9wTSrnBd/view?usp=sharing
